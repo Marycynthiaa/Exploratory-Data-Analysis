@@ -28,7 +28,7 @@ Below is the structure of the dataset in the modeling view:
 ## Executive Summary
 ### Overview of Findings
 
-The analysis revealed that operator related issues are a major contributor to downtime, accounting for a significant portion of total production delays. Using the Pareto Principle, it was discovered that just a few key factors ranging from operator related (Machine adjustment, Batch change, Batch coding error) and system-related (Machine failure, Inventory shortage) are responsible for the majority of downtime events. Product level assessment showed that certain drink types, particularly CO based products (2L and 600ml), are linked to higher adjustment times and setup related delays. These insights highlight clear opportunities for process improvement, targeted training, and product specific setup optimization.
+The analysis revealed that operator related issues are a major contributor to downtime, accounting for a significant portion of total production delays. Using the Pareto Principle, it was discovered that just a few key factors ranging from operator related (Machine adjustment, Batch change, Batch coding error) and system-related (Machine failure, Inventory shortage) are responsible for the majority of downtime events. Product level assessment showed that certain drink types, particularly CO based products (2L and 600ml), are linked to higher adjustment times and setup related delays. These insights highlight clear opportunities for process improvement, targeted training, and product specific setup optimization. 
 
 ### Operator Level Analysis
 
@@ -88,6 +88,8 @@ RETURN
 - Excel: Data Cleaning
 - Power Query: Merging queries
 - Power BI: Data Visualization
+
+[*Click here*](#project_background) to go back to top of page
 
 **Report Snapshots**
 
