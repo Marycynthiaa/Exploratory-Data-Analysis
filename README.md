@@ -28,7 +28,7 @@ Below is the structure of the dataset in the modeling view:
 ## Executive Summary
 ### Overview of Findings
 
-The analysis revealed that operator related issues are a major contributor to downtime, accounting for a significant portion of total production delays. Using the Pareto Principle, it was found that just a few key factors ranging from operator related (Machine adjustment, Batch change,Batch coding error) and system related (Machine failure, Inventory shortage) are responsible for the majority of downtime events. Product level assessment showed that certain drink types, particularly CO-based products (2L and 600ml), are linked to higher adjustment times and setup related delays. These insights highlight clear opportunities for process improvement, targeted training, and product-specific setup optimization.
+The analysis revealed that operator related issues are a major contributor to downtime, accounting for a significant portion of total production delays. Using the Pareto Principle, it was discovered that just a few key factors ranging from operator related (Machine adjustment, Batch change, Batch coding error) and system-related (Machine failure, Inventory shortage) are responsible for the majority of downtime events. Product level assessment showed that certain drink types, particularly CO based products (2L and 600ml), are linked to higher adjustment times and setup related delays. These insights highlight clear opportunities for process improvement, targeted training, and product specific setup optimization.
 
 ### Operator Level Analysis
 
@@ -37,7 +37,7 @@ An analysis of operational data revealed that **three** of the top **five** caus
 - Operator related issues directly reduce availability and performance, two critical components of OEE. Over time, this diminishes line efficiency and increases cost per unit.
 - Persistent inefficiencies can lead to operator frustration, burnout, or disengagement which will further degrade performance over time. Although the recurrence of these operator linked issues may indicate gaps in training, standard operating procedures **(SOPs)**, or shift-level accountability in the facility.
 
-<img width="576" height="279" alt="Operator Report" src="https://github.com/user-attachments/assets/36a914dd-781e-409e-a0cb-37c39f987a26" />
+<img width="453" height="127" alt="Operator related Table" src="https://github.com/user-attachments/assets/b4eaf8e6-ad2f-4750-8148-c0896cd38b94" />
 
 ### The Pareto Principle
 The Pareto Principle is known as the 80/20 rule. And it suggests that roughly **80%** of effects come from **20%** of the causes. In clear terms, it implores that a small portion of efforts or causes can lead to a large portion of results or in our case, consequences. 
@@ -89,7 +89,14 @@ RETURN
 - Power Query: Merging queries
 - Power BI: Data Visualization
 
-   
+**Report Snapshots**
+
+<img width="675" height="381" alt="Pareto Report" src="https://github.com/user-attachments/assets/987e0956-5ef4-4de6-9bd5-487df961e465" />
+
+<img width="676" height="379" alt="Operator Report" src="https://github.com/user-attachments/assets/7cb46a6e-0fa2-4b2d-9b27-4b879631c9a4" />
+
+<img width="676" height="380" alt="Product level Report" src="https://github.com/user-attachments/assets/4d4dc806-5088-4d50-8369-2e19510750e0" />
+
 
 
 
