@@ -89,7 +89,7 @@ RETURN
 - Power Query: Merging queries
 - Power BI: Data Visualization
 
-[*Click here*](#project_background)  to go back to top of page
+[*Click here*](#project-background)  to go back to top of page
 
 **Report Snapshots**
 
